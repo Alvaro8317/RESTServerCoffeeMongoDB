@@ -1,7 +1,2 @@
-# RestServerTemplate
-Hi!
-A template of a RestServer created with Node.js and Express.js
-
-```Remember```
-
-Use first npm i
+# RESTServerCoffeeMongoDB
+I created this repository to leave my RESTServer about a Coffee Shop with a CRUD of ROLES and USERS, connected to a MongoDatabase
